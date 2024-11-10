@@ -1,0 +1,321 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "elixir-ls@latest": {
+      "last_modified": "2024-11-03T14:18:04Z",
+      "resolved": "github:NixOS/nixpkgs/4ae2e647537bcdbb82265469442713d066675275#elixir-ls",
+      "source": "devbox-search",
+      "version": "0.24.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v6qym4z67ggdbm23hs43305hf8452ry6-elixir-ls-0.24.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v6qym4z67ggdbm23hs43305hf8452ry6-elixir-ls-0.24.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ccq6d4rdvbfji69ajq7vzmb1c98jivyk-elixir-ls-0.24.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ccq6d4rdvbfji69ajq7vzmb1c98jivyk-elixir-ls-0.24.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i6bx52x1nid3cziw5hzj6i27cljzwa5r-elixir-ls-0.24.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i6bx52x1nid3cziw5hzj6i27cljzwa5r-elixir-ls-0.24.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bnii56n3dcdxi3mqx41vh0n5a2gqpgss-elixir-ls-0.24.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bnii56n3dcdxi3mqx41vh0n5a2gqpgss-elixir-ls-0.24.1"
+        }
+      }
+    },
+    "elixir@latest": {
+      "last_modified": "2024-11-03T14:18:04Z",
+      "resolved": "github:NixOS/nixpkgs/4ae2e647537bcdbb82265469442713d066675275#elixir",
+      "source": "devbox-search",
+      "version": "1.17.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ipydg55fc66y9cjbzvlq2ycvvv12kjhj-elixir-1.17.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ipydg55fc66y9cjbzvlq2ycvvv12kjhj-elixir-1.17.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/s1hy0hmlc7q789qsgrsql5fywzs3l6z2-elixir-1.17.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/s1hy0hmlc7q789qsgrsql5fywzs3l6z2-elixir-1.17.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7967pxarrs1lw6d3wf2rwh28ksny6w5v-elixir-1.17.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7967pxarrs1lw6d3wf2rwh28ksny6w5v-elixir-1.17.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/54zzjwhzhqj78rhdz5pj9h9z7sand2j7-elixir-1.17.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/54zzjwhzhqj78rhdz5pj9h9z7sand2j7-elixir-1.17.3"
+        }
+      }
+    },
+    "gigalixir@latest": {
+      "last_modified": "2024-11-03T14:18:04Z",
+      "resolved": "github:NixOS/nixpkgs/4ae2e647537bcdbb82265469442713d066675275#gigalixir",
+      "source": "devbox-search",
+      "version": "1.12.1",
+      "systems": {
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/k01j26zqw9xmvfpfsh4yxi0kxkghas1i-gigalixir-1.12.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/348czbiffnnrrql7ra9401a5dbs61446-gigalixir-1.12.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/k01j26zqw9xmvfpfsh4yxi0kxkghas1i-gigalixir-1.12.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6mcbh8cjxkd3fwbsiajkps5nz5bhl0ja-gigalixir-1.12.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/mb5jzmcfhhkk5z8kla0byaq5566ykc8d-gigalixir-1.12.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/6mcbh8cjxkd3fwbsiajkps5nz5bhl0ja-gigalixir-1.12.1"
+        }
+      }
+    },
+    "git@latest": {
+      "last_modified": "2024-11-04T15:55:45Z",
+      "resolved": "github:NixOS/nixpkgs/a61cd8ff1b45f760bdf142914d517e0ccd31ffed#git",
+      "source": "devbox-search",
+      "version": "2.47.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cyd9di9q6vsdnffn63m75nsnpf425v90-git-2.47.0",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/gnwfrg822g1bbvpvml0j8n9xyl6ar5ba-git-2.47.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/cyd9di9q6vsdnffn63m75nsnpf425v90-git-2.47.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mv9iialik5dplp2aisz57b8p5gxqgf7x-git-2.47.0",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/rh25yqlwvhhq88v66n22dvm7rsnhlg57-git-2.47.0-debug"
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/yhni7sp17wcmyxs454vyl1pkzl7mjrmw-git-2.47.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/mv9iialik5dplp2aisz57b8p5gxqgf7x-git-2.47.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5c2w03ma8zc4zjszsfhd67xbdhiz40vy-git-2.47.0",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/dbgivvv0rj7z5c7hkhf4fcy226rkfhp2-git-2.47.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/5c2w03ma8zc4zjszsfhd67xbdhiz40vy-git-2.47.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/j44p1p9kci9rnrr3aj9a8j8rwvfmg75k-git-2.47.0",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/z4b92wpp5jqqgsm46hhig3kd50svc50p-git-2.47.0-debug"
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/h2pa58nivani7fx9f9r4q0fpamj89kf7-git-2.47.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/j44p1p9kci9rnrr3aj9a8j8rwvfmg75k-git-2.47.0"
+        }
+      }
+    },
+    "inotify-tools@latest": {
+      "last_modified": "2024-11-03T14:18:04Z",
+      "resolved": "github:NixOS/nixpkgs/4ae2e647537bcdbb82265469442713d066675275#inotify-tools",
+      "source": "devbox-search",
+      "version": "4.23.9.0",
+      "systems": {
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/b95af3vn0kfnwbv9wbalgw1chclh2pvf-inotify-tools-4.23.9.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/b95af3vn0kfnwbv9wbalgw1chclh2pvf-inotify-tools-4.23.9.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/c9pg1zmj7i5ycfchjpkpmi46ggnp36ig-inotify-tools-4.23.9.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/c9pg1zmj7i5ycfchjpkpmi46ggnp36ig-inotify-tools-4.23.9.0"
+        }
+      }
+    },
+    "libnotify@latest": {
+      "last_modified": "2024-11-03T14:18:04Z",
+      "resolved": "github:NixOS/nixpkgs/4ae2e647537bcdbb82265469442713d066675275#libnotify",
+      "source": "devbox-search",
+      "version": "0.8.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/737im02frwf6bl4mh4xl52kmpy6f1qrj-libnotify-0.8.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/3i7gw5qx671lvjbgb26n6y3iifq0g5vd-libnotify-0.8.3-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/dilw8fq3mj0n9xa7cnw644fsrjwphy5c-libnotify-0.8.3-dev"
+            }
+          ],
+          "store_path": "/nix/store/737im02frwf6bl4mh4xl52kmpy6f1qrj-libnotify-0.8.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z541wb8assm23ax3jgsrd1k2pyjc01ap-libnotify-0.8.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/nr325x8f95mvkp1lal4id8278klpd9mp-libnotify-0.8.3-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/1pshv18vb5hlzcp4nj9pjfpcqs2pv7sr-libnotify-0.8.3-dev"
+            }
+          ],
+          "store_path": "/nix/store/z541wb8assm23ax3jgsrd1k2pyjc01ap-libnotify-0.8.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ksk40b6djb1p0a21hl825fz2v2fgyfp5-libnotify-0.8.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/waqs72mbjvgikksj53sni3301zdcdkrc-libnotify-0.8.3-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/hd6gfm3dqfb2mq0c9hpj22jq3q1phqk2-libnotify-0.8.3-dev"
+            }
+          ],
+          "store_path": "/nix/store/ksk40b6djb1p0a21hl825fz2v2fgyfp5-libnotify-0.8.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8jq3xqcw7cp459vfzgwbrj0ryyqhxaj3-libnotify-0.8.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/3y6qbv1z6qwvpdq9rc5bwn13qwhyha5h-libnotify-0.8.3-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/2xcqnryybwh7440x2lmasymi9d1qm8gg-libnotify-0.8.3-dev"
+            }
+          ],
+          "store_path": "/nix/store/8jq3xqcw7cp459vfzgwbrj0ryyqhxaj3-libnotify-0.8.3"
+        }
+      }
+    }
+  }
+}
